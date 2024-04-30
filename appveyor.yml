@@ -1,0 +1,4 @@
+version: 1.0.{build}
+image: Ubuntu2204
+build_script:
+- sh: npm run start
